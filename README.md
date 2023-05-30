@@ -1,5 +1,5 @@
 # 📱 INFS3634 Resources
-This is a list of resources for INFS3634 (Mobile Ecosystems and Application Deevlopment) that you can use to learn more about Android application development tools and practices. This list also contains pages that can also help troubleshoot common issues you will encounter throughout the course.
+This is a list of resources for INFS3634 (Mobile Ecosystems and Application Deevlopment), an information systems course at the University of New South Wales. This page contains resources you can use to learn more about Android application development tools and practices. This list also contains pages that can also help troubleshoot common issues you will encounter throughout the course.
 
 ## 💻 Installing Android Studio
 * [🛠 Installing Android Studio](https://developer.android.com/studio/install)
